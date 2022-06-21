@@ -1,0 +1,12 @@
+Task 1:
+1)
+Create a test class and add methods that give the following inputs to the string calculator:
+Negative numbers
+Numbers larger than 1000
+2)
+Verify that the method fails to perform correctly in both cases
+3)
+Add either the negative number check or large number check to the add method.
+4)
+Verify that the coressponding test(s) pass
+5) Repeat step 3-4 for the other functionality
